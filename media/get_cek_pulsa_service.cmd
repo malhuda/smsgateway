@@ -1,0 +1,1 @@
+call cek_pulsa.cmd

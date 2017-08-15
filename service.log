@@ -1,0 +1,65 @@
+These Windows services are started:
+
+   Adobe Acrobat Update Service
+   Apache2.4
+   Application Experience
+   Background Intelligent Transfer Service
+   Base Filtering Engine
+   CNG Key Isolation
+   COM+ Event System
+   Cryptographic Services
+   DCOM Server Process Launcher
+   Desktop Window Manager Session Manager
+   DHCP Client
+   Diagnostic Policy Service
+   Diagnostic Service Host
+   Distributed Link Tracking Client
+   DNS Client
+   Encrypting File System (EFS)
+   Extensible Authentication Protocol
+   Function Discovery Resource Publication
+   Gammu SMSD Service (GammuSMSD)
+   Group Policy Client
+   Human Interface Device Access
+   IP Helper
+   Multimedia Class Scheduler
+   mysql
+   Network Connections
+   Network List Service
+   Network Location Awareness
+   Network Store Interface Service
+   Offline Files
+   Plug and Play
+   Power
+   Print Spooler
+   Program Compatibility Assistant Service
+   Remote Procedure Call (RPC)
+   RPC Endpoint Mapper
+   Security Accounts Manager
+   Security Center
+   Server
+   Shell Hardware Detection
+   SSDP Discovery
+   Superfetch
+   System Event Notification Service
+   Task Scheduler
+   TCP/IP NetBIOS Helper
+   TeamViewer 11
+   Themes
+   User Profile Service
+   Windows Audio
+   Windows Audio Endpoint Builder
+   Windows Defender
+   Windows Driver Foundation - User-mode Driver Framework
+   Windows Event Log
+   Windows Firewall
+   Windows Font Cache Service
+   Windows Image Acquisition (WIA)
+   Windows Management Instrumentation
+   Windows Search
+   Windows Update
+   WLAN AutoConfig
+   Workstation
+
+The command completed successfully.
+
